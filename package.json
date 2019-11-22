@@ -1,7 +1,7 @@
 {
-  "name": "mevn_course",
+  "name": "mevn-tasks-app-backend",
   "version": "1.0.0",
-  "description": "MongoDB Express Vue and Node App",
+  "description": "MongoDB Express Vue and Node Task App",
   "main": "app.js",
   "scripts": {
     "start": "babel-node app.js --exec",
@@ -11,10 +11,6 @@
   "author": "@lrodve",
   "license": "MIT",
   "dependencies": {
-    "@babel/cli": "7.6.0",
-    "@babel/core": "7.6.0",
-    "@babel/node": "7.6.1",
-    "@babel/preset-env": "7.6.0",
     "connect-history-api-fallback": "1.6.0",
     "cors": "2.8.5",
     "express": "4.17.1",
